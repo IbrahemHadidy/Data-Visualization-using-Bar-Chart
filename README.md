@@ -1,1 +1,1 @@
-You can see the rendered page here: https://htmlpreview.github.io/?https://github.com/IbrahemHadidy/Data-Visualization-using-Bar-Chart//blob/main/index.html
+You can see the rendered page here: (https://codepen.io/Hadidy/pen/ZEPoMrQ?editors=1010)https://codepen.io/Hadidy/pen/ZEPoMrQ?editors=1010
