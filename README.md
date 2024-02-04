@@ -1,1 +1,1 @@
-You can see the rendered page here: hhttps://codepen.io/Hadidy/pen/ZEPoMrQ
+You can see the rendered page here: https://codepen.io/Hadidy/pen/ZEPoMrQ
